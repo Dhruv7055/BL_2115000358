@@ -5,7 +5,7 @@
 ---
 
 ### January 15, 2025
-- Orientation Program of training with Bridge Labs
+    Orientation Program of training with Bridge Labs
 
 
 ### January 16, 2025
@@ -23,7 +23,7 @@
 ### January 19, 2025
     1. Java Fundamentals
 
-### January 21, 2025
+### January 22, 2025
     1. Java Comments
     2. Java Basic Data Types
     3. Java Variables
@@ -32,7 +32,7 @@
     6. Type Conversion
     7. Taking User Input in Programs
 
-### January 22, 2025 
+### January 23, 2025 
     1. Java Control Flows
     2. Java boolean Data Type
     3. Boolean Expressions
@@ -42,7 +42,7 @@
     7. Java break and continue statement
     8. Java switch Statement  
 
-### January 23, 2025
+### January 25, 2025
     1. Java Arrays
     2. Create an Array
     3. Access an Array
@@ -54,7 +54,7 @@
     9. Accessing, finding size, etc of Multi-Dimensional Array
     10. Using Java System error() message and exit() method
 
-### January 27, 2025
+### January 28, 2025
     1. User Defined Methods
     2. Using Methods Multiple Times
     3. Making Methods more Dynamic
@@ -63,7 +63,7 @@
     6. Java Standard Library Methods
     7. java.lang.Math class
 
-### January 28, 2025
+### January 29, 2025
     1. Java Strings
     2. Create Strings
     3. Use of "\" Escape Sequence
@@ -81,13 +81,35 @@
     - Built In Functions
     - Date And Time
 
-### January 30, 2025
+### January 31, 2025
     1. Procedural vs Object-oriented Programming Language
     2. Class and Object
 
-### January 31, 2025
+### February 02, 2025
     1. Java Constructors
     2. Instance vs. Class Variables
     3. Access Modifiers Concept
+
+### February 04, 2025
+    1. this- static
+    2. final
+    3. instanceof operator
+
+### February 06, 2025
+    1. Classes vs. Objects in Java
+    2. Class Diagram
+    3. Object Diagrams
+    4. Sequence Diagrams
+
+### February 07, 2025
+    1. Inheritance
+    2. Single Level Inheritance
+    3. Multilevel Inheritance
+    4. Hierarchical Inheritance
+    5. Key Features of Inheritance
+    6. Method Overriding
+    7. Constructor Inheritance in Java
+    8. Polymorphism and Inheritance
+    9. Access Modifiers and Inheritance
 
     
