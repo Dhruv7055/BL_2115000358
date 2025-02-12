@@ -112,4 +112,17 @@
     8. Polymorphism and Inheritance
     9. Access Modifiers and Inheritance
 
+### February 10, 2025
+    1. Encapsulation
+    2. Polymorphism
+    3. Interface
+    4. Abstract Classes
+    
+### February 12, 2025
+    1. Introduction of Data Structure
+    2. Key Features of Data Structures in Java
+    3. Types of Data Structures in Java
+    4. Single Linked List
+    5. Double Linked List
+    6. Circular Linked List
     
